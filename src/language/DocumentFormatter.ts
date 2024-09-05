@@ -36,7 +36,7 @@ class Compiler {
   }
 
   protected printAttribute(ast: AST.Attribute): string {
-    return `${this.stringify(ast.key)} = ${this.stringify(ast.value)};`;
+    return `${this.stringify(ast.key)} = ${this.stringify(ast.value)},`;
   }
 
   protected printAttributes(ast: AST.Attributes): string {
