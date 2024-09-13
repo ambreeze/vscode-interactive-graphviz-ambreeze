@@ -1,15 +1,15 @@
 {
-    "name": "graphviz-interactive-preview",
-    "displayName": "Graphviz Interactive Preview",
-    "description": "Graphviz (dot) Interactive Preview",
-    "version": "0.3.5",
+    "name": "graphviz-interactive-preview-ambreeze",
+    "displayName": "Graphviz Interactive Preview Ambreeze",
+    "description": "Graphviz (dot) Interactive Preview with Correct Attribute Formatting",
+    "version": "1.0.0",
     "keywords": [
         "dot",
         "graphviz",
         "preview",
         "interactive"
     ],
-    "publisher": "tintinweb",
+    "publisher": "ambreeze",
     "license": "GPLv3",
     "icon": "images/icon.png",
     "engines": {
@@ -19,11 +19,11 @@
         "Programming Languages"
     ],
     "bugs": {
-        "url": "https://github.com/tintinweb/vscode-interactive-graphviz/issues"
+        "url": "https://github.com/ambreeze/vscode-interactive-graphviz-ambreeze/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/tintinweb/vscode-interactive-graphviz"
+        "url": "https://github.com/ambreeze/vscode-interactive-graphviz-ambreeze"
     },
     "main": "./dist/extension.js",
     "browser": "./dist/extension.js",
@@ -87,7 +87,7 @@
             ]
         },
         "configuration": {
-            "title": "Graphviz Interactive Preview",
+            "title": "Graphviz Interactive Preview - ambreeze",
             "properties": {
                 "graphviz-interactive-preview.openAutomatically": {
                     "type": "boolean",
