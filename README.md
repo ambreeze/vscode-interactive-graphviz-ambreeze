@@ -3,9 +3,7 @@
 [[  🌐  ](https://diligence.consensys.net)  [  📩  ](mailto:diligence@consensys.net)  [  🔥  ](https://consensys.github.io/diligence/)]
 </sup><br/><br/>
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/tintinweb.graphviz-interactive-preview.svg)](https://marketplace.visualstudio.com/items?itemName=tintinweb.graphviz-interactive-preview)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/tintinweb.graphviz-interactive-preview.svg)](https://marketplace.visualstudio.com/items?itemName=tintinweb.graphviz-interactive-preview)
-[![Ratings](https://vsmarketplacebadge.apphb.com/rating/tintinweb.graphviz-interactive-preview.svg)](https://vsmarketplacebadge.apphb.com/rating/tintinweb.graphviz-interactive-preview.svg)
+
 
 # Graphviz Interactive Preview (Visual Studio Code Extension)
 
